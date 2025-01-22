@@ -35,7 +35,8 @@ Welcome to my GitHub profile! I'm a full-stack developer passionate about buildi
 - **Tools**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square)
 
 ## 📈 GitHub Stats:
-!NamanjainAkt(https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide=prs&hide_title=true)
+![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamanjainAkt&show_icons=true&count_private=true&hide=prs&hide_title=true)
+
 
 ## 🌍 Let's Collaborate:
 I’m always open to new ideas and collaborations. If you have an interesting project or idea, feel free to reach out—I’d love to collaborate and learn from each other!
