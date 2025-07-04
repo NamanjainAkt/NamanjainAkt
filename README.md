@@ -36,5 +36,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Happy+to+collaborate+on+cool+projects!;Let%27s+build+something+awesome+💻" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Happy+to+collaborate+on+cool+projects!;Let's+build+something+awesome+💻" />
 </p>
+
