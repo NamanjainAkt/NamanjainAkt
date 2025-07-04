@@ -1,44 +1,40 @@
-# Hi there, I'm Naman Jain 👋
+<h1 align="center">Hi there 👋, I'm Naman Jain</h1>
+<p align="center">
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" height="300" width="600" />
+</p>
 
-Welcome to my GitHub profile! I'm a full-stack developer passionate about building seamless and interactive web applications. Currently, I'm working on several full-stack projects to enhance my skills and explore new technologies.
-
-## 🚀 Currently Working On:
-- Full-stack web applications using **React**, **Node.js**, **Express**, and **MongoDB**.
-- Integrating **RESTful APIs** and experimenting with **GraphQL**.
-- Building projects that involve **authentication**, **real-time data** handling, and **cloud deployment**.
-
-## 🌱 I'm Currently Learning:
-- **GraphQL** for efficient data querying.
-- Improving my skills with **Docker** and **Kubernetes** for better deployment practices.
-- Exploring **Next.js** for server-side rendering and static site generation.
-
-## 💬 Ask Me About:
-- **JavaScript & Node.js** (Backend and Frontend)
-- **React** and modern JavaScript frameworks
-- Full-stack project development strategies
-- How to integrate **JWT authentication** in web applications
-- Best practices for **responsive design** and UI/UX
-
-## ⚡ Fun Fact:
-- I’m a huge fan of problem-solving, and I often solve coding challenges on platforms like **LeetCode** and **HackerRank**. When I'm not coding, you can find me exploring new books, or learning new things that keep me on my toes!
-
-## 📫 How to Reach Me:
-- **LinkedIn**: https://in.linkedin.com/in/naman-jain-a8b88b329
-- **Email**: namanjainakt007@gmail.com
-
-## 🔧 Technologies & Tools:
-- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square) ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square)
-- **Frontend**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square)
-- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square)
-- **Databases**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-00618A?style=flat-square)
-- **Version Control**: ![Git](https://img.shields.io/badge/-Git-F1502F?style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square)
-- **Tools**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square)
-
-
-
-## 🌍 Let's Collaborate:
-I’m always open to new ideas and collaborations. If you have an interesting project or idea, feel free to reach out—I’d love to collaborate and learn from each other!
+<p align="center">
+  <b>A passionate Full-Stack Developer 🚀 | Problem Solver 💡 | Tech Explorer 🌍</b>
+</p>
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories, star your favorites, and stay tuned for more projects and contributions!
+## 👨‍💻 About Me
+- 🌐 Full-stack web developer specializing in **MERN** stack.
+- 💡 Love building seamless, interactive, and scalable web apps.
+- 🔍 Exploring modern tech like **Next.js**, **Docker**, and **GraphQL**.
+- 🧠 Always hungry to learn and grow through real-world projects.
+- 💻 Coding daily and solving challenges on **LeetCode** & **HackerRank**.
+
+---
+
+## 🧰 Tech Stack & Tools
+<div align="center">
+
+| Languages | Frontend | Backend | Database | DevOps / Tools | Version Control |
+|----------|----------|---------|----------|----------------|-----------------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square) ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-00618A?style=flat-square) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square) | ![Git](https://img.shields.io/badge/-Git-F1502F?style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square) |
+
+</div>
+
+---
+
+## 🔗 Let's Connect
+- 📬 **Email**: [namanjainakt007@gmail.com](mailto:namanjainakt007@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/naman-jain-a8b88b329](https://in.linkedin.com/in/naman-jain-a8b88b329)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Happy+to+collaborate+on+cool+projects!;Let%27s+build+something+awesome+💻" />
+</p>
