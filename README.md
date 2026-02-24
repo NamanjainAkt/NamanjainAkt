@@ -85,9 +85,6 @@ I'm a full-stack developer who loves crafting performant, scalable, and visually
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=namanjainakt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanjainakt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=namanjainakt&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=FF6C37&currStreakLabel=6E40C9" height="170"/>
 
