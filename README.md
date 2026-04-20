@@ -90,6 +90,7 @@ I'm a full-stack developer who loves crafting performant, scalable, and visually
 
 </div>
 
+![namanjainakt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=namanjainakt&theme=tokyonight&hide_border=false)
 
 <div align="center">
 
