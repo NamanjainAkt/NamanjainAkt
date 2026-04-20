@@ -84,13 +84,10 @@ I'm a full-stack developer who loves crafting performant, scalable, and visually
 ## 📊 GitHub Stats
 
 <div align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=namanjainakt&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=FF6C37&currStreakLabel=6E40C9" height="170"/>
-
+![namanjainakt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=namanjainakt&theme=tokyonight&hide_border=false)
 </div>
 
-![namanjainakt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=namanjainakt&theme=tokyonight&hide_border=false)
+
 
 <div align="center">
 
